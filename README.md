@@ -1657,3 +1657,8 @@ Importancia de esta separación
 - Mantenibilidad: Si se requiere cambiar la lógica de acceso a datos (por ejemplo, cambiar de PostgreSQL a MySQL), solo se modifica el paquete Modelo.
 - Pruebas unitarias: Es más fácil realizar pruebas unitarias en clases del Modelo y Controlador de forma independiente.
 
+
+
+
+https://github.com/user-attachments/assets/98ca626c-bb89-4e06-aa4d-44242673b3ad
+
